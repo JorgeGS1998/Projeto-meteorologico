@@ -1,2 +1,5 @@
 # Projeto-meteorologico
-Projeto 3 curso da b7web
+A aplicação meteorológica em JavaScript, HTML e CSS usa a API OpenWeatherMap para fornecer informações meteorológicas precisas de uma cidade específica em tempo real.
+
+
+
